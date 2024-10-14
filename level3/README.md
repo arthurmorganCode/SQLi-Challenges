@@ -8,7 +8,6 @@ Steps:
 
     To find the length of the database name, we used the following SQL payload:
 
-    sql
 
 yahoo' and 1=if((length(database())) = 6,1,2)#
 
